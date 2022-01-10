@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeConversion", "TypeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{ED02D006-2A04-4D4B-A8F8-87063D0EC14A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ED02D006-2A04-4D4B-A8F8-87063D0EC14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED02D006-2A04-4D4B-A8F8-87063D0EC14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED02D006-2A04-4D4B-A8F8-87063D0EC14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
