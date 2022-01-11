@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Math", "Math", "{D0ECD9F5-7
 		Classes\Calculator.cs = Classes\Calculator.cs
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{C2823788-270C-4FE0-BC01-0372EA799AEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4DC8B85-BD70-458D-8BA0-0EA17C86A8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2823788-270C-4FE0-BC01-0372EA799AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2823788-270C-4FE0-BC01-0372EA799AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2823788-270C-4FE0-BC01-0372EA799AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2823788-270C-4FE0-BC01-0372EA799AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
