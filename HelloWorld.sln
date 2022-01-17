@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{1311FB38-49D1-4D4F-AE25-CF2A675D52F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum", "enum\enum.csproj", "{7B163FC6-1B66-42D1-BEE3-3EAAFD178F78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{1311FB38-49D1-4D4F-AE25-CF2A675D52F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1311FB38-49D1-4D4F-AE25-CF2A675D52F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1311FB38-49D1-4D4F-AE25-CF2A675D52F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B163FC6-1B66-42D1-BEE3-3EAAFD178F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B163FC6-1B66-42D1-BEE3-3EAAFD178F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B163FC6-1B66-42D1-BEE3-3EAAFD178F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B163FC6-1B66-42D1-BEE3-3EAAFD178F78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
