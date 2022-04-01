@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{B1B71398-8F09-44C6-8771-84027191ACFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{6ADF459B-D3A0-4BC0-B738-3EA8EB14E9CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{B1B71398-8F09-44C6-8771-84027191ACFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B71398-8F09-44C6-8771-84027191ACFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B71398-8F09-44C6-8771-84027191ACFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ADF459B-D3A0-4BC0-B738-3EA8EB14E9CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ADF459B-D3A0-4BC0-B738-3EA8EB14E9CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ADF459B-D3A0-4BC0-B738-3EA8EB14E9CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ADF459B-D3A0-4BC0-B738-3EA8EB14E9CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
