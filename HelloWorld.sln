@@ -38,6 +38,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomNumbers", "RandomNumb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysCsharp", "ArraysCsharp\ArraysCsharp.csproj", "{67FDB4AD-7A36-41C2-8342-51300032F7FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{9E976800-55F3-486E-B07E-904D131E5E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsCsharp", "ListsCsharp\ListsCsharp.csproj", "{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +108,14 @@ Global
 		{67FDB4AD-7A36-41C2-8342-51300032F7FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67FDB4AD-7A36-41C2-8342-51300032F7FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67FDB4AD-7A36-41C2-8342-51300032F7FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E976800-55F3-486E-B07E-904D131E5E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E976800-55F3-486E-B07E-904D131E5E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E976800-55F3-486E-B07E-904D131E5E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E976800-55F3-486E-B07E-904D131E5E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
