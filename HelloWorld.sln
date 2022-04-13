@@ -42,6 +42,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsCsharp", "ListsCsharp\ListsCsharp.csproj", "{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{E47A2DE6-4C18-40C4-9334-3B707E245746}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +118,10 @@ Global
 		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAF3A3B5-BFA3-4FD8-A1E2-B4C2A1456D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E47A2DE6-4C18-40C4-9334-3B707E245746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47A2DE6-4C18-40C4-9334-3B707E245746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47A2DE6-4C18-40C4-9334-3B707E245746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47A2DE6-4C18-40C4-9334-3B707E245746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
