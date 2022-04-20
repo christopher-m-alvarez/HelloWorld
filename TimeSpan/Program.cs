@@ -28,6 +28,12 @@ namespace TimeSpan
             // Add
             Console.WriteLine("Add Example: " + timeSpan.Add(TimeSpan.FromMinutes(8)));
             Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(2)));
+
+            // ToString
+            Console.WriteLine("ToString" + timeSpan.ToString());
+
+            // Parse
+            Console.WriteLine("Parse: " + timeSpan.Parse("01:02:03"));
         }
     }
 }
